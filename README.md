@@ -1,4 +1,4 @@
 Random
 ======
 
-Small, random, and useful programs I made when I was bored.
+Small, random, and possibly useful programs I made when I was bored.
