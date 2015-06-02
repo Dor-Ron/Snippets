@@ -3,6 +3,6 @@
 
 def iterative_factorial(n):
     result = 1
-    for i in xrange(2,n+1):
+    for i in xrange(2, n+1):
         result *= i
     return result
