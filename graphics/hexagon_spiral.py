@@ -8,8 +8,8 @@ colors = ["red", "green", "orange", "purple", "yellow", "blue"]
 canvas = Pen()
 
 for num in xrange(360):
-	canvas.pencolor(colors[num%6])
-	canvas.width(num/100+1)
+	canvas.pencolor(colors[num % 6])
+	canvas.width(num / 100 + 1) #to give the effect of the line getting bigger as it "approaches"
 	canvas.forward(num) #so line length keeps increasing
 	canvas.left(59) 
 	
