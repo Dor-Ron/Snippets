@@ -9,12 +9,3 @@ Usage instructions:
 
 >3. Wait for you results
 
--------------- **OPTIONAL** -------------------
-
-If you're planning to use the script more than once (for accuracy purposes) you must clear the numbers.log file. Do so by:
-
-4) **rm numbers.log**
-
-5) type **clear**
-
-6) restart from step #2
