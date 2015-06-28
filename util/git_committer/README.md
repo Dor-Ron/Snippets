@@ -3,7 +3,7 @@ command line arguments into git_commiter.py.
 
 **Prerequisites:**
 ===============   
-+ Have python installed.
++ Have python 2 installed.
 + Have git installed
 + Be running a unix-based machine, or a windows machine with cygwin
 
